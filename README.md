@@ -1,4 +1,4 @@
-## Hi my name is Adriana Page, I am an 18 year old college freshman who is majoring in Computer Science. �
+## Hi my name is Adriana Page, I am an 18 year old college freshman who is majoring in Computer Science. 
 
 <!--
 **apage418/apage418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
